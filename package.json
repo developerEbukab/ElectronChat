@@ -1,0 +1,14 @@
+{
+  "name": "electronchat",
+  "version": "1.0.0",
+  "description": "A native desktop chat application for Mac windows and Linx. Built with ElectronJs HTML5 CSS React and Javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ebuka Beluolisa",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.1"
+  }
+}
